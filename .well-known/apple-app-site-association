@@ -1,0 +1,20 @@
+{
+  "applinks":{
+    "apps":[
+       
+    ],
+    "details":[
+      {
+        "appIDs":[
+          "com.example.datePoller"
+        ],
+        "components":[
+          {
+            "/":"*",
+            "comment":"Matches all URLs"
+          }
+        ]
+      }
+    ]
+  }
+}
