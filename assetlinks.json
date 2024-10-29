@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.date_poller",
+    "sha256_cert_fingerprints":
+    ["C7:DA:CF:26:7C:F6:37:97:0F:84:06:2C:49:A9:30:E7:FA:F2:1B:07:0D:2C:61:EA:A0:85:BF:AA:A8:9E:36:52"]
+  }
+}]
